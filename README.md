@@ -6,7 +6,6 @@
 - A convenient and friendly interface is the key to a successful product.
 
 ---
-
 ## My stack:
 
 <div style="display: flex">
@@ -19,8 +18,7 @@
     <img src="./svg/reactjs.svg" width="96px" height="96px">
     <img src="./svg/node.svg" width="96px" height="96px">
 </div>
-___
-
+---
 ## Contacts:
 
 [<img src="./svg/linkedin.svg" width="96px" height="96px">](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BE%D0%B2%D1%87%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-801438240/)
