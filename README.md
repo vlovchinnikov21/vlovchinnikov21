@@ -1,16 +1,19 @@
-### Hi there 👋
+# ✌ Hi, I'm Vladimir!
 
-<!--
-**vlovchinnikov21/vlovchinnikov21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a junior frontend developer.
+* I currently studied at Yandex.Practicum.
+* I want to make many people's lives better!
+* A convenient and friendly interface is the key to a successful product.
+___
+## My stack:
 
-Here are some ideas to get you started:
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,git,webpack,vscode,figma)](https://skills.thijs.gg)
+___
+## My statistics:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=vlovchinnikov21&show_icons=true&hide=stars,contributes&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlovchinnikov21&layout=compact&theme=dark" />
+</a>
