@@ -1,35 +1,34 @@
 # ✌ Hi, I'm Vladimir!
 
-* I'm a junior frontend developer.
-* I currently studied at Yandex.Practicum.
-* I want to make many people's lives better!
-* A convenient and friendly interface is the key to a successful product.
-___
+- I'm a junior frontend developer.
+- I currently studied at Yandex.Practicum.
+- I want to make many people's lives better!
+- A convenient and friendly interface is the key to a successful product.
+
+---
+
 ## My stack:
 
 <div style="display: flex">
-    <img src="./svg/html5.svg" width="96px" height="96px">
-    <img src="./svg/css3.svg" width="96px" height="96px">
-    <img src="./svg/javascript.svg" width="96px" height="96px">
-    <img src="./svg/git.svg" width="96px" height="96px">
+    <img src="./svg/html-5.svg" width="96px" height="96px">
+    <img src="./svg/css-3.svg" width="96px" height="96px">
+    <img src="./svg/js.svg" width="96px" height="96px">
+    <img src="./svg/bem.svg" width="96px" height="96px">
+    <img src="./svg/git-icon.svg" width="96px" height="96px">
     <img src="./svg/webpack.svg" width="96px" height="96px">
-    <img src="./svg/react.svg" width="96px" height="96px">
-    <img src="./svg/expo.svg" width="96px" height="96px">
-    <img src="./svg/redux.svg" width="96px" height="96px">
-    <img src="./svg/typescript.svg" width="96px" height="96px">
-    <img src="./svg/nodedotjs.svg" width="96px" height="96px">
-    <img src="./svg/express.svg" width="96px" height="96px">
-    <img src="./svg/mongodb.svg" width="96px" height="96px">
-    <img src="./svg/postgresql.svg" width="96px" height="96px">
+    <img src="./svg/reactjs.svg" width="96px" height="96px">
+    <img src="./svg/node.svg" width="96px" height="96px">
 </div>
 ___
+
 ## Contacts:
 
-[<img src="" width="96px" height="96px">](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BE%D0%B2%D1%87%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-801438240/)
-[<img src="" width="96px" height="96px">](https://t.me/bosk_21)
-[<img src="" width="96px" height="96px">](mailto:vlovc21@yandex.ru)
+[<img src="./svg/linkedin.svg" width="96px" height="96px">](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BE%D0%B2%D1%87%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-801438240/)
+[<img src="./svg/telegram.svg" width="96px" height="96px">](https://t.me/bosk_21)
+[<img src="./svg/yandex.svg" width="96px" height="96px">](mailto:vlovc21@yandex.ru)
 
-___
+---
+
 ## My statistics:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
